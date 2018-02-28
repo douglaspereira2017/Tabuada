@@ -1,7 +1,7 @@
 // JavaScript Document
 function tabuada(){
  
-    //obtêm o numero escolhido pelo usuário
+    //numero escolhido pelo usuário
     var numero = document.getElementById("numero").value;
     //obtêm a div onde será adicionado a tabuada
     var resultado = document.getElementById("resultado");
